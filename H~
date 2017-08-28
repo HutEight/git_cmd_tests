@@ -1,8 +1,10 @@
 teamone create H
 teamone change H 01
 teamone change H 02
-master insert H 01
 teamone change H 03
+<<<<<<< HEAD
 teamone change H 04
+=======
 master change H 01
 master change H 02
+>>>>>>> 86c8067... fuck you master create A after I deleted 3
